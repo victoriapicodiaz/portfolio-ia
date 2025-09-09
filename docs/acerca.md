@@ -5,7 +5,7 @@ date: 2025-01-01
 
 # Acerca de mí
 
-Breve presentación personal, intereses y objetivos para este curso.
+Me llamo Victoria, soy estudiante de intercambio de España y estoy en el tercer año de ingeniería informática.
 
 ## Habilidades
 - Lenguajes / herramientas relevantes
